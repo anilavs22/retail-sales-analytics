@@ -62,3 +62,4 @@ Business Insights
 - Discounts negatively affect profitability.
 - A small percentage of customers generate major sales.
 - Technology products contribute strong revenue performance.
+
