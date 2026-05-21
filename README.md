@@ -63,3 +63,20 @@ Business Insights
 - A small percentage of customers generate major sales.
 - Technology products contribute strong revenue performance.
 
+## Screenshots
+
+### Sales by Region
+
+![Sales by Region](screenshots/sales_by_region.jpg)
+
+---
+
+### Heatmap
+
+![Heatmap](screenshots/heatmap.jpg)
+
+---
+
+### Monthly Trend
+
+![Monthly Trend](screenshots/monthly_trend.jpg)
